@@ -3,7 +3,14 @@
 A simple Tetris game built from scratch in C, inspired by the movie *Tetris (2023)*.
 
 ## 🚀 About the Project
-I was fascinated by how a regular government employee in the Soviet Union created the legendary Tetris in 1984 using Pascal. That story inspired me to take on the challenge of building my own version using C. After days of sketching and iterating, I finally built Tetris from scratch.
+I was fascinated by how a regular government employee in the Soviet Union created the legendary Tetris in 1984 using Pascal. That story inspired me to take on the challenge of building my own version using C. After days of sketching and iterating, I experimented with different prototypes, using blocks made of "[]", "▓▓", "██". Finally, I built Tetris from scratch, and it was an exciting journey!"
+
+
+## 🕹️ Game Mechanism
+- R - for right.
+- L - for left.
+- D - for down.
+- U - to rotate the tetrominoes.
 
 ## 🎮 Features
 - Classic Tetris gameplay
@@ -15,6 +22,7 @@ I was fascinated by how a regular government employee in the Soviet Union create
 
 ## 🎥 ScreenShots
 
+![Game Screenshot](tetriss.png)
 ![Game Screenshot](tetrisss1.png)
 ![Game Screenshot](tetrisss2.png)
 ![Game Screenshot](tetrisss3.png)

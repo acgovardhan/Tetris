@@ -508,7 +508,6 @@ int main()
 	    if(n+low == MAX-1 || b==1)
 	    {
 	      saveTemp();
-	      printf("hello");
 	      break;
 	    }
 	    printf(" :");
